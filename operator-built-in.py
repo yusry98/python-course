@@ -1,0 +1,2 @@
+import operator
+help(operator)
